@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2026-01-03",
+    "product": "Smartphone Nova X1",
+    "category": "Smartphones",
+    "price": 699.9,
+    "quantity": 2
+  },
+  {
+    "date": "2026-01-05",
+    "product": "Clavier mécanique",
+    "category": "Accessoires",
+    "price": 79.9,
+    "quantity": 1
+  },
+  {
+    "date": "2026-01-08",
+    "product": "Ordinateur portable NovaBook 14",
+    "category": "Informatique",
+    "price": 899.0,
+    "quantity": 1
+  },
+  {
+    "date": "2026-01-12",
+    "product": "Téléviseur NovaView 43 pouces",
+    "category": "Téléviseurs",
+    "price": 429.9,
+    "quantity": 3
+  },
+  {
+    "date": "2026-01-15",
+    "product": "Souris sans fil",
+    "category": "Accessoires",
+    "price": 24.9,
+    "quantity": 4
+  },
+  {
+    "date": "2026-01-18",
+    "product": "Casque Bluetooth Pulse",
+    "category": "Audio",
+    "price": 89.9,
+    "quantity": 2
+  },
+  {
+    "date": "2026-01-21",
+    "product": "Smartphone Nova X1 Lite",
+    "category": "Smartphones",
+    "price": 399.9,
+    "quantity": 5
+  },
+  {
+    "date": "2026-01-25",
+    "product": "Écouteurs sans fil Pulse Buds",
+    "category": "Audio",
+    "price": 59.9,
+    "quantity": 6
+  },
+  {
+    "date": "2026-02-02",
+    "product": "Écran 27 pouces",
+    "category": "Informatique",
+    "price": 229.9,
+    "quantity": 2
+  },
+  {
+    "date": "2026-02-06",
+    "product": "Téléviseur NovaView 55 pouces",
+    "category": "Téléviseurs",
+    "price": 649.9,
+    "quantity": 1
+  },
+  {
+    "date": "2026-02-09",
+    "product": "Enceinte Bluetooth Pulse Mini",
+    "category": "Audio",
+    "price": 49.9,
+    "quantity": 4
+  },
+  {
+    "date": "2026-02-13",
+    "product": "Clavier sans fil",
+    "category": "Accessoires",
+    "price": 49.9,
+    "quantity": 2
+  },
+  {
+    "date": "2026-02-17",
+    "product": "Ordinateur portable NovaBook 16",
+    "category": "Informatique",
+    "price": 1199.0,
+    "quantity": 2
+  },
+  {
+    "date": "2026-02-21",
+    "product": "Casque audio à réduction de bruit",
+    "category": "Audio",
+    "price": 179.9,
+    "quantity": 1
+  },
+  {
+    "date": "2026-02-26",
+    "product": "Smartphone Nova X2",
+    "category": "Smartphones",
+    "price": 849.9,
+    "quantity": 3
+  },
+  {
+    "date": "2026-03-03",
+    "product": "Chargeur USB-C 65 W",
+    "category": "Accessoires",
+    "price": 29.9,
+    "quantity": 7
+  },
+  {
+    "date": "2026-03-08",
+    "product": "Tablette NovaTab 11",
+    "category": "Informatique",
+    "price": 349.9,
+    "quantity": 2
+  },
+  {
+    "date": "2026-03-12",
+    "product": "Téléviseur NovaView 65 pouces",
+    "category": "Téléviseurs",
+    "price": 999.0,
+    "quantity": 1
+  },
+  {
+    "date": "2026-03-19",
+    "product": "Écouteurs Pulse Buds Pro",
+    "category": "Audio",
+    "price": 119.9,
+    "quantity": 3
+  },
+  {
+    "date": "2026-03-25",
+    "product": "Webcam HD",
+    "category": "Accessoires",
+    "price": 54.9,
+    "quantity": 4
+  },
+  {
+    "date": "2026-04-02",
+    "product": "Smartphone Nova X2 Pro",
+    "category": "Smartphones",
+    "price": 1099.0,
+    "quantity": 2
+  },
+  {
+    "date": "2026-04-07",
+    "product": "Ordinateur portable NovaBook 13",
+    "category": "Informatique",
+    "price": 749.9,
+    "quantity": 2
+  },
+  {
+    "date": "2026-04-14",
+    "product": "Souris gaming",
+    "category": "Accessoires",
+    "price": 59.9,
+    "quantity": 5
+  },
+  {
+    "date": "2026-04-22",
+    "product": "Téléviseur NovaView 50 pouces",
+    "category": "Téléviseurs",
+    "price": 549.9,
+    "quantity": 2
+  }
+]
